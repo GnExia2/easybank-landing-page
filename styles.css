@@ -1,6 +1,31 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
+nav{
+  background-color: blue;
+  text-align: center;
+}
+
+body{
+
+}
+
+#area1{
+  background-color: red;
+  text-align: center;
+}
+
+#area2{
+  background-color: #4f7359;
+  text-align: center;
+}
+
+#area3{
+  background-color: #989ab5;
+  text-align: center;
+}
+
+
 footer {
   background-color: green;
   padding: 20px;
